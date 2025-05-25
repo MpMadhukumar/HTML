@@ -1,0 +1,22 @@
+<center>
+    <h1>IPL Team Players</h1>
+</center>
+<center>
+<h2>Players Information</h2>
+<h1>ipl team</h1>
+<table border="1">
+    <tr>
+        <th>name</th>   <th>age</th>   <th>team</th>
+    </tr>
+    <tr>
+        <th>dhoni</th>   <th>41</th>   <th>CSK</th>
+    </tr>
+    <tr>
+        <th>kohli</th>   <th>35</th>   <th>RCB</th>
+    </tr>
+    <tr>
+        <th>rohit</th>   <th>36</th>   <th>Mumbai</th>
+    </tr>
+
+</table>
+</center>
