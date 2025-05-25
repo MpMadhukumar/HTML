@@ -1,0 +1,32 @@
+<center>
+    <h1>Student registration form</h1>
+</center>
+ 
+<form BG="BLACK" TEXT="WHITE">
+    <table>
+        <tr>
+            <td>name</td><td><input type="TEXT" placeholder="ENTER UR NAME"></td>
+        </tr>
+
+        <tr>
+            <td>age</td><td><input type="NUMBER" placeholder="ENTER UR AGE"></td>
+        </tr>
+        <tr>
+            <td>address</td><td><input type="text" placeholder="ENTER UR ADDRESS"></td>
+        </tr>
+        <tr>
+            <td>department</td>
+            <td>
+                <select>
+                    <option value="CSE(AIML)">CSE(AIML)</option>
+                    <option value="ECE">ECE</option>
+                    <option value="ME">ME</option>
+                </select>
+            </td>
+        </tr>
+
+        <tr>
+            <td><input type="submit"></td>
+        </tr>
+    </table>
+</form>
